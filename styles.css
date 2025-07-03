@@ -717,6 +717,9 @@ body {
 .skill-item:nth-child(9):hover {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
+.skill-item:nth-child(10):hover {
+  box-shadow: 0 10px 30px rgb(238, 109, 63, 0.3);
+}
 
 .skill-icon {
   font-size: 3rem;
